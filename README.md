@@ -1,2 +1,2 @@
 # logicaDeProgramacao
-Repostirio para as aulas Senai
+Repositório para as aulas Senai
