@@ -1,7 +1,6 @@
 algoritmo "MostrarNome"
 
 
-nomeUsuario : caractere 
 
 inicio
 // output - saída - telas, lads, respostas por voz, som
